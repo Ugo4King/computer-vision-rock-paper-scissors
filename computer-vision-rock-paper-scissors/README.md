@@ -3,7 +3,6 @@
 
 This is a Python-based Rock-Paper-Scissors game that uses computer vision to allow the user to play against the computer. The game captures the user's hand gesture using the webcam, processes it with a pre-trained machine learning model, and determines the winner based on the gestures.
 
-![Gameplay](gameplay_screenshot.png)
 
 ## Features
 
@@ -37,8 +36,6 @@ This is a Python-based Rock-Paper-Scissors game that uses computer vision to all
 5. The game continues until either the computer or the user wins three rounds.
 
 ## Screenshots
-
-![Countdown](countdown_screenshot.png)
 
 ## Future Improvements
 
